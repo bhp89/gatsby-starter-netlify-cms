@@ -1,4 +1,3 @@
-@@ -1,98 +0,0 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
@@ -43,7 +42,8 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-      </Link>
+              
+            </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -60,7 +60,8 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-             
+              
+            </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
