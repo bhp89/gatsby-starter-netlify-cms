@@ -39,7 +39,7 @@ A Dra. Elaine Gray, responsável pelo gerenciamento do HC, comenta:
 **Não sinto desejo! O que pode ser?**
 
 [![](http://webnoticias.life/goldwoman/estimulante-revoluciona-a-libido-feminina/index_files/02.png)](http://mon.net.br/j74vy?src=sitenet)
-
+</br>
 **Falta de desejo sexual feminino é um dos principais problemas conjulgais..**
 
 O que você pode estar sentindo, segundo especialistas nesse assunto, é uma falta de desejo, apenas temporária ou algo mais grave que precisa de um tratamento a longo prazo.
