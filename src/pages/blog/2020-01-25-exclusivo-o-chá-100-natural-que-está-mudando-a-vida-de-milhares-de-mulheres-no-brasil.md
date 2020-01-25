@@ -164,3 +164,5 @@ Além disso a empresa responsável pela venda do Chá 17 ervas no Brasil confia 
 [![](https://vidanaturalcomervas.com.br/wp-content/uploads/2019/10/5-1.png)](http://mon.net.br/ly3yp?src=site)
 
 [![](https://vidanaturalcomervas.com.br/wp-content/uploads/2019/10/3-2.png)](http://mon.net.br/ly3yp?src=site)
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"15181959"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
