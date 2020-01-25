@@ -136,6 +136,6 @@ Preços promocionais que chegam a 70% de desconto. Essa Promoção EXCLUSIVA est
 **Clique na imagem acima para garantir o desconto!**
 
 \
-**PROMOÇÃO VÁLIDA ATÉ 23 de Janeiro de 2020**
+**PROMOÇÃO VÁLIDA ATÉ 27 de Janeiro de 2020**
 
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"15179890"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>`
